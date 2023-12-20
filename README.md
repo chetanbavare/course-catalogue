@@ -19,4 +19,4 @@ The Courses Catalogue UI is a React JS and Tailwind CSS project that presents a 
 The course data is retrieved through an API call. The data is in JSON format.
 
 ## Screenshots
-[![Project Screenshot](screenshots/courses_catalogue.png)]
+![Project Screenshot](courses_catalogue.png)
